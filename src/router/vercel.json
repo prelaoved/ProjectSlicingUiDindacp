@@ -1,13 +1,6 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/" },
-    { "source": "/blog", "destination": "/" },
-    { "source": "/blog-post", "destination": "/" },
-    { "source": "/about", "destination": "/" },
-    { "source": "/contact-us", "destination": "/" },
-    { "source": "/privacy", "destination": "/" },
-    { "source": "/category", "destination": "/" },
-    { "source": "/author", "destination": "/" },
     { "source": "/(.*)", "destination": "/" }
   ]
 }
+
